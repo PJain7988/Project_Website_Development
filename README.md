@@ -1,5 +1,9 @@
 # TimelyCraft ⌚
 
+**[🔴 Live Demo / View Project](https://PJain7988.github.io/Project_Website_Development/)**
+
+![Project Screenshot](assets/project_screenshot.png)
+
 TimelyCraft is a premium e-commerce website for luxury and smart watches. This project has been redesigned to offer a professional, dark luxury user experience with responsive design, smooth animations, and enhanced interactivity.
 
 ## ✨ Features
