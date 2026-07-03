@@ -1,6 +1,6 @@
 # TimelyCraft ⌚
 
-**[🔴 Live Demo / View Project](https://PJain7988.github.io/Project_Website_Development/)**
+**[🔴 Live Demo / View Project](https://PJain7988.github.io/TimelyCraft_Ecommerce/)**
 
 ![Project Screenshot](assets/project_screenshot.png)
 
